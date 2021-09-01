@@ -1,0 +1,1 @@
+$ heroku config:set MAVEN_CUSTOM_GOALS="clean package"
